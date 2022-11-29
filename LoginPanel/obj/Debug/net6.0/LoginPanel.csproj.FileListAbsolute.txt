@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.AssemblyInfo.cs
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\bin\Debug\net6.0\LoginPanel.exe
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\bin\Debug\net6.0\LoginPanel.deps.json
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\bin\Debug\net6.0\LoginPanel.runtimeconfig.json
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\bin\Debug\net6.0\LoginPanel.dll
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\bin\Debug\net6.0\LoginPanel.pdb
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.dll
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\refint\LoginPanel.dll
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.pdb
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\LoginPanel.genruntimeconfig.cache
+C:\Users\Asus\source\repos\LoginPanel\LoginPanel\obj\Debug\net6.0\ref\LoginPanel.dll
